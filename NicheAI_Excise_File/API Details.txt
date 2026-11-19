@@ -1,0 +1,64 @@
+https://chatgpt.com/
+https://platform.openai.com/
+https://platform.openai.com/usage
+https://platform.openai.com/settings/organization/billing/overview
+https://platform.openai.com/settings/organization/limits
+https://platform.openai.com/settings/organization/usage
+
+https://platform.openai.com/docs/guides/text
+
+
+------------------------------------------------------------ Install  --------------------------------------------------------
+
+sk-proj-gZZZ3JLFFaGAEva9nLHpb78834NeFKhBHMRJP7elx0_tQSE1ZvAA
+
+
+==================== Check ChatGpt API in Postman =======================
+
+https://api.openai.com/v1/chat/completions
+
+Headers
+Content-Type = application/json
+Authorization = Bearer sk-proj-2pLGD_E.................
+
+Body>row
+{
+    "model": "gpt-4o-mini",
+    "store": true,
+    "messages": [
+      {"role": "user", "content": "what is the best ai application in 2026?"}
+    ]
+  }
+
+==================== End Check ChatGpt API in Postman =======================
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+

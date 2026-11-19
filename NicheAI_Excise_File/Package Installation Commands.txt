@@ -1,0 +1,104 @@
+1. Create Next.js Project
+npx create-next-app@latest 
+
+2. Install Prisma & Database Tools
+npm install @prisma/client@^6.19.0    // Query database in your code (ORM)  
+npm install -D prisma@^6.19.0   // CLI for migrations, studio, generate
+ 
+3. Install Authentication (NextAuth.js v5)
+npm install next-auth@beta   // Authentication system for Next.js (v5)
+npm install @auth/prisma-adapter   // Connects NextAuth sessions/users to Prisma DB
+npm install bcryptjs   // Hash & verify passwords
+npm install -D @types/bcryptjs  // TypeScript types for bcryptjs
+
+# Step 3 — AI & Data APIs
+npm install openai google-trends-api
+
+npm install openai
+npm install google-trends-api
+
+
+HTTP client	
+npm install axios
+
+Icon library	
+npm install lucide-react
+
+Component variants	
+npm install class-variance-authority
+
+Conditional classes	
+npm install clsx
+
+
+Toast notifications	
+npm install react-hot-toast    // Show toast notifications (success/error)
+
+Charts & graphs	
+npm install recharts
+
+Form management	
+npm install react-hook-form
+
+PDF generation	
+npm install jspdf
+
+PDF tables	
+npm install jspdf-autotable
+
+Scheduled tasks	
+npm install node-cron
+
+Types	
+npm install -D @types/node-cron
+
+Run TypeScript files	
+npm install -D tsx
+
+-----
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+# tailwindcss dependencies
+
+npm uninstall tailwindcss
+npm install -D tailwindcss@3.4.18 postcss@8.5.6 autoprefixer@10.4.22
+
+
+make sure remove the .next then run server 
+
+Prose styling	
+npm install @tailwindcss/typography
+
+Merge Tailwind classes	
+npm install tailwind-merge
+
+
+
+ 
+
+
+
+
+
+
