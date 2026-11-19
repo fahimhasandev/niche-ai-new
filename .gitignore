@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
+/NicheAI_Excise_File
 .pnp.*
 .yarn/*
 !.yarn/patches
