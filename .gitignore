@@ -3,7 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
-/NicheAI_Excise_File
+/NicheAI_Excise_File/
 .pnp.*
 .yarn/*
 !.yarn/patches
@@ -43,3 +43,5 @@ next-env.d.ts
 node_modules/
 dist/
 .env
+
+/src/generated/prisma
